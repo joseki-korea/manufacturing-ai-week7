@@ -20,7 +20,7 @@ source_of_truth: "docs/agents/sessions/pm.md"
 
 # pm session
 
-Role: follow the assigned session scope.
+Role: Plan and dispatch scoped work.
 
 Input: task and applicable rules.
 

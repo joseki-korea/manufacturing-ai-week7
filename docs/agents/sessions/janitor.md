@@ -20,7 +20,7 @@ source_of_truth: "docs/agents/sessions/janitor.md"
 
 # janitor session
 
-Role: follow the assigned session scope.
+Role: Monitor context usage and recommend handoff and cleanup at the configured threshold.
 
 Input: task and applicable rules.
 

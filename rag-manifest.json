@@ -328,7 +328,7 @@
         "repository"
       ],
       "updated": "2026-11-08",
-      "sha8": "fb020336"
+      "sha8": "37c30a18"
     },
     {
       "path": "docs/agents/sessions/github-backup.md",
@@ -339,7 +339,7 @@
         "repository"
       ],
       "updated": "2026-11-08",
-      "sha8": "763b3c74"
+      "sha8": "339dc468"
     },
     {
       "path": "docs/agents/sessions/google-drive-backup.md",
@@ -350,7 +350,7 @@
         "repository"
       ],
       "updated": "2026-11-08",
-      "sha8": "a35b15dc"
+      "sha8": "cc395ea5"
     },
     {
       "path": "docs/agents/sessions/handoff.md",
@@ -361,7 +361,7 @@
         "repository"
       ],
       "updated": "2026-11-08",
-      "sha8": "7b8283e3"
+      "sha8": "084898e2"
     },
     {
       "path": "docs/agents/sessions/janitor.md",
@@ -372,7 +372,7 @@
         "repository"
       ],
       "updated": "2026-11-08",
-      "sha8": "0cdc1cb1"
+      "sha8": "86a9b6db"
     },
     {
       "path": "docs/agents/sessions/pm.md",
@@ -383,7 +383,7 @@
         "repository"
       ],
       "updated": "2026-11-08",
-      "sha8": "86f62b59"
+      "sha8": "348bb733"
     },
     {
       "path": "docs/agents/sessions/worker.md",
@@ -394,7 +394,7 @@
         "repository"
       ],
       "updated": "2026-11-08",
-      "sha8": "ffef7203"
+      "sha8": "6f86ebd6"
     },
     {
       "path": "docs/glossary.md",

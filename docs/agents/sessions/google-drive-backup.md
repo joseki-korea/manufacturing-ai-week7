@@ -20,7 +20,7 @@ source_of_truth: "docs/agents/sessions/google-drive-backup.md"
 
 # google-drive-backup session
 
-Role: follow the assigned session scope.
+Role: Copy approved new files to the assigned Drive destination without overwriting.
 
 Input: task and applicable rules.
 

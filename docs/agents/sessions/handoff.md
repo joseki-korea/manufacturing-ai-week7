@@ -20,7 +20,7 @@ source_of_truth: "docs/agents/sessions/handoff.md"
 
 # handoff session
 
-Role: follow the assigned session scope.
+Role: Transfer state, evidence, blockers and next action.
 
 Input: task and applicable rules.
 

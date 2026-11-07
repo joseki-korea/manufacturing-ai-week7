@@ -20,7 +20,7 @@ source_of_truth: "docs/agents/sessions/ego-lite.md"
 
 # ego-lite session
 
-Role: follow the assigned session scope.
+Role: Operate only within the assigned lightweight session scope.
 
 Input: task and applicable rules.
 

@@ -20,7 +20,7 @@ source_of_truth: "docs/agents/sessions/worker.md"
 
 # worker session
 
-Role: follow the assigned session scope.
+Role: Implement assigned work and collect evidence.
 
 Input: task and applicable rules.
 

@@ -20,7 +20,7 @@ source_of_truth: "docs/agents/sessions/github-backup.md"
 
 # github-backup session
 
-Role: follow the assigned session scope.
+Role: Prepare approved GitHub backups within the assigned scope.
 
 Input: task and applicable rules.
 
