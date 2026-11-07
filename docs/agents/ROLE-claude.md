@@ -20,4 +20,4 @@ source_of_truth: "docs/agents/ROLE-claude.md"
 
 # Claude role
 
-Follow the assigned session scope and [repository rules](../../RULES.md). Preserve existing work; hand off changes and verification evidence for independent review.
+Monitor and coordinate; execution is performed by an assigned worker. Follow the assigned session scope and [repository rules](../../RULES.md). Preserve existing work; hand off changes and verification evidence for independent review.

@@ -284,7 +284,7 @@
         "repository"
       ],
       "updated": "2026-11-08",
-      "sha8": "a2962fe6"
+      "sha8": "e23e1e87"
     },
     {
       "path": "docs/agents/ROLE-claude.md",
@@ -295,7 +295,7 @@
         "repository"
       ],
       "updated": "2026-11-08",
-      "sha8": "da2f9f18"
+      "sha8": "7b31bc93"
     },
     {
       "path": "docs/agents/ROLE-codex.md",
@@ -306,7 +306,7 @@
         "repository"
       ],
       "updated": "2026-11-08",
-      "sha8": "b2af14e0"
+      "sha8": "2ac3f970"
     },
     {
       "path": "docs/agents/sessions/README.md",
@@ -480,7 +480,7 @@
         "repository"
       ],
       "updated": "2026-11-08",
-      "sha8": "23006431"
+      "sha8": "e58a00bc"
     },
     {
       "path": "AGENTS.md",
@@ -490,7 +490,7 @@
         "repository"
       ],
       "updated": "2026-11-08",
-      "sha8": "57dfa2d7"
+      "sha8": "4ce80fbe"
     },
     {
       "path": "GEMINI.md",
@@ -500,7 +500,7 @@
         "repository"
       ],
       "updated": "2026-11-08",
-      "sha8": "f0b7534e"
+      "sha8": "b4ca5896"
     }
   ],
   "exclude": [
@@ -511,7 +511,11 @@
     "*.jpg",
     "*.pdf",
     "*.zip",
-    ".env*"
+    ".env*",
+    "*.mp4",
+    "*.mov",
+    "*.webm",
+    "*.bin"
   ],
   "include": [
     "**/README.md",

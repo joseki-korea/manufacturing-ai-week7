@@ -10,3 +10,7 @@ data/
 *.zip
 .env*
 !**/README.md
+*.mp4
+*.mov
+*.webm
+*.bin

@@ -20,4 +20,4 @@ source_of_truth: "docs/agents/ROLE-codex.md"
 
 # Codex role
 
-Follow the assigned session scope and [repository rules](../../RULES.md). Preserve existing work; hand off changes and verification evidence for independent review.
+Implement and test work within the assigned scope. Follow the assigned session scope and [repository rules](../../RULES.md). Preserve existing work; hand off changes and verification evidence for independent review.

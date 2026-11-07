@@ -20,4 +20,4 @@ source_of_truth: "docs/agents/ROLE-antigravity.md"
 
 # Antigravity role
 
-Follow the assigned session scope and [repository rules](../../RULES.md). Preserve existing work; hand off changes and verification evidence for independent review.
+Implement assigned work within the permitted scope. Follow the assigned session scope and [repository rules](../../RULES.md). Preserve existing work; hand off changes and verification evidence for independent review.
