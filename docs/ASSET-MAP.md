@@ -20,4 +20,4 @@ source_of_truth: "docs/ASSET-MAP.md"
 
 # Asset map
 
-No standalone asset files were identified in the tracked root. Notebook-embedded output remains in place; proposed media destinations are under `assets/images/`. No files were moved.
+No standalone asset files were identified in the tracked root. Notebook-embedded output remains in place; proposed media destinations are under `assets/images/`. Three notebooks were moved to `notebooks/` and named in lowercase kebab-case.

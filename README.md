@@ -2,7 +2,7 @@ GitHub: https://github.com/joseki-korea/manufacturing-ai-week7
 Drive: https://drive.google.com/drive/folders/15lAcb2DXivxFME61K94Vm345mYwP_dnu
 
 Run: Open the notebooks in Jupyter with the dependencies described in their cells.
-Folder map: notebooks currently live at the root; see [FOLDER-STRUCTURE.md](FOLDER-STRUCTURE.md).
+Folder map: notebooks live in `notebooks/`; see [FOLDER-STRUCTURE.md](FOLDER-STRUCTURE.md).
 Rules: [RULES.md](RULES.md); architecture: [ARCHITECTURE.md](ARCHITECTURE.md).
 
 # 충북대학교 제조 AI 실제 (8884023-01) - 7주차 실습 및 과제
@@ -14,9 +14,9 @@ Rules: [RULES.md](RULES.md); architecture: [ARCHITECTURE.md](ARCHITECTURE.md).
 
 | 번호 | 노트북 | 내용 | 실측 결과 (단일 1회 실행) |
 |:---:|:---|:---|:---|
-| Lab 7-1 | [Lab7_1.cnn_mnist_convolution_pooling.ipynb](./2026154001_정용석_Lab7_1.cnn_mnist_convolution_pooling.ipynb) | 합성곱·풀링 파라미터 실험, MNIST 간단 CNN | MNIST 테스트 정확도 98.43% (3 epochs) |
-| Lab 7-2 | [Lab7_2.classic_cnn.ipynb](./2026154001_정용석_Lab7_2.classic_cnn.ipynb) | LeNet-5 학습, VGG16 추론, 구조·복잡도 비교 | LeNet-5 MNIST 테스트 정확도 98.11% (5 epochs) |
-| Lab 7-3 | [Lab7_3.inception_resnet_finetuning_transfer.ipynb](./2026154001_정용석_Lab7_3.inception_resnet_finetuning_transfer.ipynb) | InceptionV3 미세조정, ResNet50 기반 CIFAR-10 전이학습 | CIFAR-10 테스트 정확도 25.63% (3 epochs) |
+| Lab 7-1 | [Lab7_1.cnn_mnist_convolution_pooling.ipynb](./notebooks/lab-7-1-cnn-mnist-convolution-pooling.ipynb) | 합성곱·풀링 파라미터 실험, MNIST 간단 CNN | MNIST 테스트 정확도 98.43% (3 epochs) |
+| Lab 7-2 | [Lab7_2.classic_cnn.ipynb](./notebooks/lab-7-2-classic-cnn.ipynb) | LeNet-5 학습, VGG16 추론, 구조·복잡도 비교 | LeNet-5 MNIST 테스트 정확도 98.11% (5 epochs) |
+| Lab 7-3 | [Lab7_3.inception_resnet_finetuning_transfer.ipynb](./notebooks/lab-7-3-inception-resnet-finetuning-transfer.ipynb) | InceptionV3 미세조정, ResNet50 기반 CIFAR-10 전이학습 | CIFAR-10 테스트 정확도 25.63% (3 epochs) |
 
 ## 결과 해석 및 공시
 
