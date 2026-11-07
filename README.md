@@ -1,3 +1,10 @@
+GitHub: https://github.com/joseki-korea/manufacturing-ai-week7
+Drive: https://drive.google.com/drive/folders/15lAcb2DXivxFME61K94Vm345mYwP_dnu
+
+Run: Open the notebooks in Jupyter with the dependencies described in their cells.
+Folder map: notebooks currently live at the root; see [FOLDER-STRUCTURE.md](FOLDER-STRUCTURE.md).
+Rules: [RULES.md](RULES.md); architecture: [ARCHITECTURE.md](ARCHITECTURE.md).
+
 # 충북대학교 제조 AI 실제 (8884023-01) - 7주차 실습 및 과제
 
 - **작성자**: 2026154001 정용석

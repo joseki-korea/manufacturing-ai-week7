@@ -1,0 +1,12 @@
+.git/
+.venv/
+node_modules/
+__pycache__/
+data/
+*.ipynb
+*.png
+*.jpg
+*.pdf
+*.zip
+.env*
+!**/README.md
