@@ -3,17 +3,33 @@
 {"heading": "Scope", "id": ".github/pull_request_template.md#2", "lang": "en", "path": ".github/pull_request_template.md", "sensitivity": "public", "sha8": "72c6e6c5", "tags": ["documentation", "repository"]}
 {"heading": "Validation", "id": ".github/pull_request_template.md#3", "lang": "en", "path": ".github/pull_request_template.md", "sensitivity": "public", "sha8": "72c6e6c5", "tags": ["documentation", "repository"]}
 {"heading": "Risks and follow-up", "id": ".github/pull_request_template.md#4", "lang": "en", "path": ".github/pull_request_template.md", "sensitivity": "public", "sha8": "72c6e6c5", "tags": ["documentation", "repository"]}
-{"heading": "Agent entry point", "id": "AGENTS.md#1", "lang": "en", "path": "AGENTS.md", "sensitivity": "internal", "sha8": "fe882d14", "tags": ["agents"]}
-{"heading": "멀티에이전트 핸드오프·정리·감시·훅 (docs/agents)", "id": "AGENTS.md#2", "lang": "en", "path": "AGENTS.md", "sensitivity": "internal", "sha8": "fe882d14", "tags": ["agents"]}
-{"heading": "Architecture", "id": "ARCHITECTURE.md#1", "lang": "en", "path": "ARCHITECTURE.md", "sensitivity": "public", "sha8": "d2e09e5e", "tags": ["documentation", "repository"]}
-{"heading": "Agent entry point", "id": "CLAUDE.md#1", "lang": "en", "path": "CLAUDE.md", "sensitivity": "internal", "sha8": "a1486778", "tags": ["agents"]}
-{"heading": "멀티에이전트 핸드오프·정리·감시·훅 (docs/agents)", "id": "CLAUDE.md#2", "lang": "en", "path": "CLAUDE.md", "sensitivity": "internal", "sha8": "a1486778", "tags": ["agents"]}
+{"heading": "Agent entry point", "id": "AGENTS.md#1", "lang": "en", "path": "AGENTS.md", "sensitivity": "internal", "sha8": "cc807764", "tags": ["agents"]}
+{"heading": "멀티에이전트 핸드오프·정리·감시·훅 (docs/agents)", "id": "AGENTS.md#2", "lang": "en", "path": "AGENTS.md", "sensitivity": "internal", "sha8": "cc807764", "tags": ["agents"]}
+{"heading": "규칙 상속 (전역 → 지역)", "id": "AGENTS.md#3", "lang": "en", "path": "AGENTS.md", "sensitivity": "internal", "sha8": "cc807764", "tags": ["agents"]}
+{"heading": "Architecture", "id": "ARCHITECTURE.md#1", "lang": "en", "path": "ARCHITECTURE.md", "sensitivity": "public", "sha8": "0e0ab8f5", "tags": ["documentation", "repository"]}
+{"heading": "Current top-level directories", "id": "ARCHITECTURE.md#2", "lang": "en", "path": "ARCHITECTURE.md", "sensitivity": "public", "sha8": "0e0ab8f5", "tags": ["documentation", "repository"]}
+{"heading": "Agent entry point", "id": "CLAUDE.md#1", "lang": "en", "path": "CLAUDE.md", "sensitivity": "internal", "sha8": "f3b5fd49", "tags": ["agents"]}
+{"heading": "멀티에이전트 핸드오프·정리·감시·훅 (docs/agents)", "id": "CLAUDE.md#2", "lang": "en", "path": "CLAUDE.md", "sensitivity": "internal", "sha8": "f3b5fd49", "tags": ["agents"]}
+{"heading": "규칙 상속 (전역 → 지역)", "id": "CLAUDE.md#3", "lang": "en", "path": "CLAUDE.md", "sensitivity": "internal", "sha8": "f3b5fd49", "tags": ["agents"]}
 {"heading": "Contributing", "id": "CONTRIBUTING.md#1", "lang": "en", "path": "CONTRIBUTING.md", "sensitivity": "public", "sha8": "79102c75", "tags": ["documentation", "repository"]}
 {"heading": "Folder structure", "id": "FOLDER-STRUCTURE.md#1", "lang": "en", "path": "FOLDER-STRUCTURE.md", "sensitivity": "public", "sha8": "d5f53c91", "tags": ["documentation", "repository"]}
 {"heading": "Agent entry point", "id": "GEMINI.md#1", "lang": "en", "path": "GEMINI.md", "sensitivity": "internal", "sha8": "9eb69680", "tags": ["agents"]}
 {"heading": "멀티에이전트 핸드오프·정리·감시·훅 (docs/agents)", "id": "GEMINI.md#2", "lang": "en", "path": "GEMINI.md", "sensitivity": "internal", "sha8": "9eb69680", "tags": ["agents"]}
+{"heading": "Model and session rules", "id": "MODEL-SESSION-RULES.md#1", "lang": "und", "path": "MODEL-SESSION-RULES.md", "sensitivity": "internal", "sha8": "cb6bcb5f", "tags": []}
+{"heading": "Status", "id": "MODEL-SESSION-RULES.md#2", "lang": "und", "path": "MODEL-SESSION-RULES.md", "sensitivity": "internal", "sha8": "cb6bcb5f", "tags": []}
+{"heading": "Inheritance", "id": "MODEL-SESSION-RULES.md#3", "lang": "und", "path": "MODEL-SESSION-RULES.md", "sensitivity": "internal", "sha8": "cb6bcb5f", "tags": []}
+{"heading": "Model placement", "id": "MODEL-SESSION-RULES.md#4", "lang": "und", "path": "MODEL-SESSION-RULES.md", "sensitivity": "internal", "sha8": "cb6bcb5f", "tags": []}
+{"heading": "Naming", "id": "MODEL-SESSION-RULES.md#5", "lang": "und", "path": "MODEL-SESSION-RULES.md", "sensitivity": "internal", "sha8": "cb6bcb5f", "tags": []}
+{"heading": "Context", "id": "MODEL-SESSION-RULES.md#6", "lang": "und", "path": "MODEL-SESSION-RULES.md", "sensitivity": "internal", "sha8": "cb6bcb5f", "tags": []}
+{"heading": "Approval", "id": "MODEL-SESSION-RULES.md#7", "lang": "und", "path": "MODEL-SESSION-RULES.md", "sensitivity": "internal", "sha8": "cb6bcb5f", "tags": []}
+{"heading": "PM", "id": "PM.md#1", "lang": "und", "path": "PM.md", "sensitivity": "internal", "sha8": "f793fed4", "tags": []}
+{"heading": "Owner (담당)", "id": "PM.md#2", "lang": "und", "path": "PM.md", "sensitivity": "internal", "sha8": "f793fed4", "tags": []}
+{"heading": "Priorities", "id": "PM.md#3", "lang": "und", "path": "PM.md", "sensitivity": "internal", "sha8": "f793fed4", "tags": []}
+{"heading": "Backlog", "id": "PM.md#4", "lang": "und", "path": "PM.md", "sensitivity": "internal", "sha8": "f793fed4", "tags": []}
+{"heading": "Status / Updated", "id": "PM.md#5", "lang": "und", "path": "PM.md", "sensitivity": "internal", "sha8": "f793fed4", "tags": []}
 {"heading": "RAG ingestion", "id": "RAG.md#1", "lang": "en", "path": "RAG.md", "sensitivity": "public", "sha8": "3c46d169", "tags": ["documentation", "repository"]}
 {"heading": "Wiki", "id": "RAG.md#2", "lang": "en", "path": "RAG.md", "sensitivity": "public", "sha8": "3c46d169", "tags": ["documentation", "repository"]}
+{"heading": "Roles", "id": "ROLES.md#1", "lang": "und", "path": "ROLES.md", "sensitivity": "internal", "sha8": "d58cefb2", "tags": []}
 {"heading": "Repository rules", "id": "RULES.md#1", "lang": "en", "path": "RULES.md", "sensitivity": "public", "sha8": "806a0f27", "tags": ["documentation", "repository"]}
 {"heading": "핸드오프 절차", "id": "RULES.md#2", "lang": "en", "path": "RULES.md", "sensitivity": "public", "sha8": "806a0f27", "tags": ["documentation", "repository"]}
 {"heading": "Asset manifest", "id": "assets/MANIFEST.md#1", "lang": "en", "path": "assets/MANIFEST.md", "sensitivity": "public", "sha8": "1f619ee4", "tags": ["documentation", "repository"]}

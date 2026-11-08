@@ -20,6 +20,10 @@ source_of_truth: "ARCHITECTURE.md"
 
 # Architecture
 
-Three root notebooks explore convolution and pooling on MNIST, classic CNNs, and transfer learning with CIFAR-10. Their cells define the data preparation, model execution, and output; datasets and pretrained weights may be downloaded by the notebooks. See the original README for reported single-run results.
+Three notebooks in `notebooks/` explore convolution and pooling on MNIST, classic CNNs, and transfer learning with CIFAR-10. Their cells define the data preparation, model execution, and output; datasets and pretrained weights may be downloaded by the notebooks. See the original README for reported single-run results.
 
-No notebook has been relocated. Folder destinations are documented in [FOLDER-STRUCTURE.md](FOLDER-STRUCTURE.md).
+Notebooks are stored under `notebooks/`. Folder destinations are documented in [FOLDER-STRUCTURE.md](FOLDER-STRUCTURE.md).
+
+## Current top-level directories
+
+`.github/`, `assets/`, `configs/`, `data/`, `docs/`, `experiments/`, `models/`, `notebooks/`, `reports/`, `scripts/`, `src/`.
