@@ -20,4 +20,10 @@ source_of_truth: "assets/MANIFEST.md"
 
 # Asset manifest
 
-No new binary assets are included in this change. Keep files over 5 MB in Drive and record their size, SHA-256 and Drive link here when added.
+Binary assets are tracked in the inventory below.
+
+## Binary inventory
+
+| Name | Original path | Size (bytes) | SHA-256 | Drive link | Status |
+| --- | --- | ---: | --- | --- | --- |
+| — | — | — | — | — | No tracked binaries |
