@@ -21,3 +21,7 @@ source_of_truth: "RAG.md"
 # RAG ingestion
 
 Index reviewed Markdown sections with stable IDs and source paths. Exclude credentials, generated outputs, binary files, and datasets. See [.ragignore](.ragignore) and [rag-manifest.json](rag-manifest.json).
+
+## Wiki
+
+The topic wiki is in `docs/wiki/`; start at `docs/wiki/index.md` and follow citations to repository sources. Run `python3 scripts/wiki-lint.py` to validate it and `python3 scripts/rag-manifest.py` to regenerate the heading inventory in `docs/_meta/rag-manifest.jsonl`. Embeddings are generated locally outside this repository.
