@@ -24,3 +24,10 @@ related: []
 - [노트북](pages/entities/notebooks.md) — 실습 코드와 결과
 - [노트북 실행](pages/howto/run-notebooks.md) — Jupyter에서 실습 열기
 - [자주 묻는 질문](pages/faq.md) — 노트북 실행과 결과 해석
+
+## 에이전트 문서 (docs/agents)
+- [핸드오프 규칙](../agents/handoffs/README.md) — 넘김 기록의 이름·ACK·보관 규칙
+- [핸드오프 양식](../agents/handoffs/TEMPLATE.md) — 새 핸드오프를 만들 때 복사하는 양식
+- [정리 담당](../agents/ROLE-janitor.md) — 임시 파일과 복제본 정리 규칙
+- [감시 담당](../agents/ROLE-watchdog.md) — 정체·디스크·규칙 위반 감시 규칙
+- [훅 목록](../agents/HOOKS.md) — 이 레포의 실제 훅 목록
