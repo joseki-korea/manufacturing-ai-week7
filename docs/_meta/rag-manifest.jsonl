@@ -1,0 +1,127 @@
+{"heading": ".github directory", "id": ".github/README.md#1", "lang": "en", "path": ".github/README.md", "sensitivity": "public", "sha8": "b1dfd350", "tags": ["documentation", "repository"]}
+{"heading": "Pull request", "id": ".github/pull_request_template.md#1", "lang": "en", "path": ".github/pull_request_template.md", "sensitivity": "public", "sha8": "72c6e6c5", "tags": ["documentation", "repository"]}
+{"heading": "Scope", "id": ".github/pull_request_template.md#2", "lang": "en", "path": ".github/pull_request_template.md", "sensitivity": "public", "sha8": "72c6e6c5", "tags": ["documentation", "repository"]}
+{"heading": "Validation", "id": ".github/pull_request_template.md#3", "lang": "en", "path": ".github/pull_request_template.md", "sensitivity": "public", "sha8": "72c6e6c5", "tags": ["documentation", "repository"]}
+{"heading": "Risks and follow-up", "id": ".github/pull_request_template.md#4", "lang": "en", "path": ".github/pull_request_template.md", "sensitivity": "public", "sha8": "72c6e6c5", "tags": ["documentation", "repository"]}
+{"heading": "Agent entry point", "id": "AGENTS.md#1", "lang": "en", "path": "AGENTS.md", "sensitivity": "internal", "sha8": "cc807764", "tags": ["agents"]}
+{"heading": "멀티에이전트 핸드오프·정리·감시·훅 (docs/agents)", "id": "AGENTS.md#2", "lang": "en", "path": "AGENTS.md", "sensitivity": "internal", "sha8": "cc807764", "tags": ["agents"]}
+{"heading": "규칙 상속 (전역 → 지역)", "id": "AGENTS.md#3", "lang": "en", "path": "AGENTS.md", "sensitivity": "internal", "sha8": "cc807764", "tags": ["agents"]}
+{"heading": "Architecture", "id": "ARCHITECTURE.md#1", "lang": "en", "path": "ARCHITECTURE.md", "sensitivity": "public", "sha8": "0e0ab8f5", "tags": ["documentation", "repository"]}
+{"heading": "Current top-level directories", "id": "ARCHITECTURE.md#2", "lang": "en", "path": "ARCHITECTURE.md", "sensitivity": "public", "sha8": "0e0ab8f5", "tags": ["documentation", "repository"]}
+{"heading": "Agent entry point", "id": "CLAUDE.md#1", "lang": "en", "path": "CLAUDE.md", "sensitivity": "internal", "sha8": "f3b5fd49", "tags": ["agents"]}
+{"heading": "멀티에이전트 핸드오프·정리·감시·훅 (docs/agents)", "id": "CLAUDE.md#2", "lang": "en", "path": "CLAUDE.md", "sensitivity": "internal", "sha8": "f3b5fd49", "tags": ["agents"]}
+{"heading": "규칙 상속 (전역 → 지역)", "id": "CLAUDE.md#3", "lang": "en", "path": "CLAUDE.md", "sensitivity": "internal", "sha8": "f3b5fd49", "tags": ["agents"]}
+{"heading": "Contributing", "id": "CONTRIBUTING.md#1", "lang": "en", "path": "CONTRIBUTING.md", "sensitivity": "public", "sha8": "79102c75", "tags": ["documentation", "repository"]}
+{"heading": "Folder structure", "id": "FOLDER-STRUCTURE.md#1", "lang": "en", "path": "FOLDER-STRUCTURE.md", "sensitivity": "public", "sha8": "d5f53c91", "tags": ["documentation", "repository"]}
+{"heading": "Agent entry point", "id": "GEMINI.md#1", "lang": "en", "path": "GEMINI.md", "sensitivity": "internal", "sha8": "9eb69680", "tags": ["agents"]}
+{"heading": "멀티에이전트 핸드오프·정리·감시·훅 (docs/agents)", "id": "GEMINI.md#2", "lang": "en", "path": "GEMINI.md", "sensitivity": "internal", "sha8": "9eb69680", "tags": ["agents"]}
+{"heading": "Model and session rules", "id": "MODEL-SESSION-RULES.md#1", "lang": "und", "path": "MODEL-SESSION-RULES.md", "sensitivity": "internal", "sha8": "cb6bcb5f", "tags": []}
+{"heading": "Status", "id": "MODEL-SESSION-RULES.md#2", "lang": "und", "path": "MODEL-SESSION-RULES.md", "sensitivity": "internal", "sha8": "cb6bcb5f", "tags": []}
+{"heading": "Inheritance", "id": "MODEL-SESSION-RULES.md#3", "lang": "und", "path": "MODEL-SESSION-RULES.md", "sensitivity": "internal", "sha8": "cb6bcb5f", "tags": []}
+{"heading": "Model placement", "id": "MODEL-SESSION-RULES.md#4", "lang": "und", "path": "MODEL-SESSION-RULES.md", "sensitivity": "internal", "sha8": "cb6bcb5f", "tags": []}
+{"heading": "Naming", "id": "MODEL-SESSION-RULES.md#5", "lang": "und", "path": "MODEL-SESSION-RULES.md", "sensitivity": "internal", "sha8": "cb6bcb5f", "tags": []}
+{"heading": "Context", "id": "MODEL-SESSION-RULES.md#6", "lang": "und", "path": "MODEL-SESSION-RULES.md", "sensitivity": "internal", "sha8": "cb6bcb5f", "tags": []}
+{"heading": "Approval", "id": "MODEL-SESSION-RULES.md#7", "lang": "und", "path": "MODEL-SESSION-RULES.md", "sensitivity": "internal", "sha8": "cb6bcb5f", "tags": []}
+{"heading": "PM", "id": "PM.md#1", "lang": "und", "path": "PM.md", "sensitivity": "internal", "sha8": "f793fed4", "tags": []}
+{"heading": "Owner (담당)", "id": "PM.md#2", "lang": "und", "path": "PM.md", "sensitivity": "internal", "sha8": "f793fed4", "tags": []}
+{"heading": "Priorities", "id": "PM.md#3", "lang": "und", "path": "PM.md", "sensitivity": "internal", "sha8": "f793fed4", "tags": []}
+{"heading": "Backlog", "id": "PM.md#4", "lang": "und", "path": "PM.md", "sensitivity": "internal", "sha8": "f793fed4", "tags": []}
+{"heading": "Status / Updated", "id": "PM.md#5", "lang": "und", "path": "PM.md", "sensitivity": "internal", "sha8": "f793fed4", "tags": []}
+{"heading": "RAG ingestion", "id": "RAG.md#1", "lang": "en", "path": "RAG.md", "sensitivity": "public", "sha8": "3c46d169", "tags": ["documentation", "repository"]}
+{"heading": "Wiki", "id": "RAG.md#2", "lang": "en", "path": "RAG.md", "sensitivity": "public", "sha8": "3c46d169", "tags": ["documentation", "repository"]}
+{"heading": "Roles", "id": "ROLES.md#1", "lang": "und", "path": "ROLES.md", "sensitivity": "internal", "sha8": "d58cefb2", "tags": []}
+{"heading": "Repository rules", "id": "RULES.md#1", "lang": "en", "path": "RULES.md", "sensitivity": "public", "sha8": "806a0f27", "tags": ["documentation", "repository"]}
+{"heading": "핸드오프 절차", "id": "RULES.md#2", "lang": "en", "path": "RULES.md", "sensitivity": "public", "sha8": "806a0f27", "tags": ["documentation", "repository"]}
+{"heading": "Asset manifest", "id": "assets/MANIFEST.md#1", "lang": "en", "path": "assets/MANIFEST.md", "sensitivity": "public", "sha8": "1f619ee4", "tags": ["documentation", "repository"]}
+{"heading": "Binary inventory", "id": "assets/MANIFEST.md#2", "lang": "en", "path": "assets/MANIFEST.md", "sensitivity": "public", "sha8": "1f619ee4", "tags": ["documentation", "repository"]}
+{"heading": "assets directory", "id": "assets/README.md#1", "lang": "en", "path": "assets/README.md", "sensitivity": "public", "sha8": "344afa74", "tags": ["documentation", "repository"]}
+{"heading": "assets/images directory", "id": "assets/images/README.md#1", "lang": "en", "path": "assets/images/README.md", "sensitivity": "public", "sha8": "41e07532", "tags": ["documentation", "repository"]}
+{"heading": "assets/images/brand directory", "id": "assets/images/brand/README.md#1", "lang": "en", "path": "assets/images/brand/README.md", "sensitivity": "public", "sha8": "6a49528c", "tags": ["documentation", "repository"]}
+{"heading": "assets/images/diagrams directory", "id": "assets/images/diagrams/README.md#1", "lang": "en", "path": "assets/images/diagrams/README.md", "sensitivity": "public", "sha8": "ece5329e", "tags": ["documentation", "repository"]}
+{"heading": "assets/images/photos directory", "id": "assets/images/photos/README.md#1", "lang": "en", "path": "assets/images/photos/README.md", "sensitivity": "public", "sha8": "d6c2b037", "tags": ["documentation", "repository"]}
+{"heading": "assets/images/product directory", "id": "assets/images/product/README.md#1", "lang": "en", "path": "assets/images/product/README.md", "sensitivity": "public", "sha8": "1437d36e", "tags": ["documentation", "repository"]}
+{"heading": "assets/images/screenshots directory", "id": "assets/images/screenshots/README.md#1", "lang": "en", "path": "assets/images/screenshots/README.md", "sensitivity": "public", "sha8": "8e7d1272", "tags": ["documentation", "repository"]}
+{"heading": "assets/ui directory", "id": "assets/ui/README.md#1", "lang": "en", "path": "assets/ui/README.md", "sensitivity": "public", "sha8": "3fb73a99", "tags": ["documentation", "repository"]}
+{"heading": "assets/ui/components directory", "id": "assets/ui/components/README.md#1", "lang": "en", "path": "assets/ui/components/README.md", "sensitivity": "public", "sha8": "429b101c", "tags": ["documentation", "repository"]}
+{"heading": "assets/ui/icons directory", "id": "assets/ui/icons/README.md#1", "lang": "en", "path": "assets/ui/icons/README.md", "sensitivity": "public", "sha8": "4ce74ca7", "tags": ["documentation", "repository"]}
+{"heading": "assets/ui/mockups directory", "id": "assets/ui/mockups/README.md#1", "lang": "en", "path": "assets/ui/mockups/README.md", "sensitivity": "public", "sha8": "b9512bde", "tags": ["documentation", "repository"]}
+{"heading": "assets/ui/tokens directory", "id": "assets/ui/tokens/README.md#1", "lang": "en", "path": "assets/ui/tokens/README.md", "sensitivity": "public", "sha8": "422b9961", "tags": ["documentation", "repository"]}
+{"heading": "configs directory", "id": "configs/README.md#1", "lang": "en", "path": "configs/README.md", "sensitivity": "public", "sha8": "019cedb8", "tags": ["documentation", "repository"]}
+{"heading": "data directory", "id": "data/README.md#1", "lang": "en", "path": "data/README.md", "sensitivity": "public", "sha8": "d5901fdd", "tags": ["documentation", "repository"]}
+{"heading": "Asset map", "id": "docs/ASSET-MAP.md#1", "lang": "en", "path": "docs/ASSET-MAP.md", "sensitivity": "public", "sha8": "334b606a", "tags": ["documentation", "repository"]}
+{"heading": "docs directory", "id": "docs/README.md#1", "lang": "en", "path": "docs/README.md", "sensitivity": "public", "sha8": "74f60e41", "tags": ["documentation", "repository"]}
+{"heading": "Binary inventory plan", "id": "docs/_meta/binary-plan.md#1", "lang": "und", "path": "docs/_meta/binary-plan.md", "sensitivity": "internal", "sha8": "71366970", "tags": []}
+{"heading": "훅 목록 (실측)", "id": "docs/agents/HOOKS.md#1", "lang": "ko", "path": "docs/agents/HOOKS.md", "sensitivity": "internal", "sha8": "45b3b5b9", "tags": ["hooks", "ci", "git", "claude-code", "codex"]}
+{"heading": "요약", "id": "docs/agents/HOOKS.md#2", "lang": "ko", "path": "docs/agents/HOOKS.md", "sensitivity": "internal", "sha8": "45b3b5b9", "tags": ["hooks", "ci", "git", "claude-code", "codex"]}
+{"heading": "1. Claude Code 훅", "id": "docs/agents/HOOKS.md#3", "lang": "ko", "path": "docs/agents/HOOKS.md", "sensitivity": "internal", "sha8": "45b3b5b9", "tags": ["hooks", "ci", "git", "claude-code", "codex"]}
+{"heading": "2. Codex 훅", "id": "docs/agents/HOOKS.md#4", "lang": "ko", "path": "docs/agents/HOOKS.md", "sensitivity": "internal", "sha8": "45b3b5b9", "tags": ["hooks", "ci", "git", "claude-code", "codex"]}
+{"heading": "3. git 훅", "id": "docs/agents/HOOKS.md#5", "lang": "ko", "path": "docs/agents/HOOKS.md", "sensitivity": "internal", "sha8": "45b3b5b9", "tags": ["hooks", "ci", "git", "claude-code", "codex"]}
+{"heading": "4. CI (GitHub Actions)", "id": "docs/agents/HOOKS.md#6", "lang": "ko", "path": "docs/agents/HOOKS.md", "sensitivity": "internal", "sha8": "45b3b5b9", "tags": ["hooks", "ci", "git", "claude-code", "codex"]}
+{"heading": "5. npm 라이프사이클 스크립트", "id": "docs/agents/HOOKS.md#7", "lang": "ko", "path": "docs/agents/HOOKS.md", "sensitivity": "internal", "sha8": "45b3b5b9", "tags": ["hooks", "ci", "git", "claude-code", "codex"]}
+{"heading": "실패 시 동작 (종류별)", "id": "docs/agents/HOOKS.md#8", "lang": "ko", "path": "docs/agents/HOOKS.md", "sensitivity": "internal", "sha8": "45b3b5b9", "tags": ["hooks", "ci", "git", "claude-code", "codex"]}
+{"heading": "추가 방법 (안전 규칙)", "id": "docs/agents/HOOKS.md#9", "lang": "ko", "path": "docs/agents/HOOKS.md", "sensitivity": "internal", "sha8": "45b3b5b9", "tags": ["hooks", "ci", "git", "claude-code", "codex"]}
+{"heading": "docs/agents directory", "id": "docs/agents/README.md#1", "lang": "en", "path": "docs/agents/README.md", "sensitivity": "public", "sha8": "c9e0be83", "tags": ["documentation", "repository"]}
+{"heading": "Antigravity role", "id": "docs/agents/ROLE-antigravity.md#1", "lang": "en", "path": "docs/agents/ROLE-antigravity.md", "sensitivity": "public", "sha8": "e23e1e87", "tags": ["documentation", "repository"]}
+{"heading": "Claude role", "id": "docs/agents/ROLE-claude.md#1", "lang": "en", "path": "docs/agents/ROLE-claude.md", "sensitivity": "public", "sha8": "7b31bc93", "tags": ["documentation", "repository"]}
+{"heading": "Codex role", "id": "docs/agents/ROLE-codex.md#1", "lang": "en", "path": "docs/agents/ROLE-codex.md", "sensitivity": "public", "sha8": "2ac3f970", "tags": ["documentation", "repository"]}
+{"heading": "정리 담당(janitor) 역할", "id": "docs/agents/ROLE-janitor.md#1", "lang": "ko", "path": "docs/agents/ROLE-janitor.md", "sensitivity": "internal", "sha8": "23ffc4b6", "tags": ["janitor", "cleanup", "role"]}
+{"heading": "목적", "id": "docs/agents/ROLE-janitor.md#2", "lang": "ko", "path": "docs/agents/ROLE-janitor.md", "sensitivity": "internal", "sha8": "23ffc4b6", "tags": ["janitor", "cleanup", "role"]}
+{"heading": "정리 대상 (일반 규칙)", "id": "docs/agents/ROLE-janitor.md#3", "lang": "ko", "path": "docs/agents/ROLE-janitor.md", "sensitivity": "internal", "sha8": "23ffc4b6", "tags": ["janitor", "cleanup", "role"]}
+{"heading": "금지", "id": "docs/agents/ROLE-janitor.md#4", "lang": "ko", "path": "docs/agents/ROLE-janitor.md", "sensitivity": "internal", "sha8": "23ffc4b6", "tags": ["janitor", "cleanup", "role"]}
+{"heading": "절차: 목록 → 기록 → 실행 → 영수증", "id": "docs/agents/ROLE-janitor.md#5", "lang": "ko", "path": "docs/agents/ROLE-janitor.md", "sensitivity": "internal", "sha8": "23ffc4b6", "tags": ["janitor", "cleanup", "role"]}
+{"heading": "이 레포 정리 대상 (실측, 2026-11-08, @4bf36a8b)", "id": "docs/agents/ROLE-janitor.md#6", "lang": "ko", "path": "docs/agents/ROLE-janitor.md", "sensitivity": "internal", "sha8": "23ffc4b6", "tags": ["janitor", "cleanup", "role"]}
+{"heading": "빌드·설치 산출물 (재생성 가능)", "id": "docs/agents/ROLE-janitor.md#7", "lang": "ko", "path": "docs/agents/ROLE-janitor.md", "sensitivity": "internal", "sha8": "23ffc4b6", "tags": ["janitor", "cleanup", "role"]}
+{"heading": "큰 최상위 폴더 (50MB 이상)", "id": "docs/agents/ROLE-janitor.md#8", "lang": "ko", "path": "docs/agents/ROLE-janitor.md", "sensitivity": "internal", "sha8": "23ffc4b6", "tags": ["janitor", "cleanup", "role"]}
+{"heading": "임시 파일 후보 (추적되지 않는 것만)", "id": "docs/agents/ROLE-janitor.md#9", "lang": "ko", "path": "docs/agents/ROLE-janitor.md", "sensitivity": "internal", "sha8": "23ffc4b6", "tags": ["janitor", "cleanup", "role"]}
+{"heading": "감시 담당(watchdog) 역할", "id": "docs/agents/ROLE-watchdog.md#1", "lang": "ko", "path": "docs/agents/ROLE-watchdog.md", "sensitivity": "internal", "sha8": "307ce88f", "tags": ["watchdog", "monitoring", "role"]}
+{"heading": "목적", "id": "docs/agents/ROLE-watchdog.md#2", "lang": "ko", "path": "docs/agents/ROLE-watchdog.md", "sensitivity": "internal", "sha8": "307ce88f", "tags": ["watchdog", "monitoring", "role"]}
+{"heading": "감시 항목", "id": "docs/agents/ROLE-watchdog.md#3", "lang": "ko", "path": "docs/agents/ROLE-watchdog.md", "sensitivity": "internal", "sha8": "307ce88f", "tags": ["watchdog", "monitoring", "role"]}
+{"heading": "이 레포 검증 명령 (실측)", "id": "docs/agents/ROLE-watchdog.md#4", "lang": "ko", "path": "docs/agents/ROLE-watchdog.md", "sensitivity": "internal", "sha8": "307ce88f", "tags": ["watchdog", "monitoring", "role"]}
+{"heading": "CI 워크플로 (실측)", "id": "docs/agents/ROLE-watchdog.md#5", "lang": "ko", "path": "docs/agents/ROLE-watchdog.md", "sensitivity": "internal", "sha8": "307ce88f", "tags": ["watchdog", "monitoring", "role"]}
+{"heading": "규칙", "id": "docs/agents/ROLE-watchdog.md#6", "lang": "ko", "path": "docs/agents/ROLE-watchdog.md", "sensitivity": "internal", "sha8": "307ce88f", "tags": ["watchdog", "monitoring", "role"]}
+{"heading": "핸드오프 폴더 (docs/agents/handoffs)", "id": "docs/agents/handoffs/README.md#1", "lang": "ko", "path": "docs/agents/handoffs/README.md", "sensitivity": "internal", "sha8": "6aa214a3", "tags": ["handoff", "multi-agent", "rules"]}
+{"heading": "파일 이름", "id": "docs/agents/handoffs/README.md#2", "lang": "ko", "path": "docs/agents/handoffs/README.md", "sensitivity": "internal", "sha8": "6aa214a3", "tags": ["handoff", "multi-agent", "rules"]}
+{"heading": "규칙", "id": "docs/agents/handoffs/README.md#3", "lang": "ko", "path": "docs/agents/handoffs/README.md", "sensitivity": "internal", "sha8": "6aa214a3", "tags": ["handoff", "multi-agent", "rules"]}
+{"heading": "절차", "id": "docs/agents/handoffs/README.md#4", "lang": "ko", "path": "docs/agents/handoffs/README.md", "sensitivity": "internal", "sha8": "6aa214a3", "tags": ["handoff", "multi-agent", "rules"]}
+{"heading": "관련 문서", "id": "docs/agents/handoffs/README.md#5", "lang": "ko", "path": "docs/agents/handoffs/README.md", "sensitivity": "internal", "sha8": "6aa214a3", "tags": ["handoff", "multi-agent", "rules"]}
+{"heading": "핸드오프: <제목>", "id": "docs/agents/handoffs/TEMPLATE.md#1", "lang": "ko", "path": "docs/agents/handoffs/TEMPLATE.md", "sensitivity": "internal", "sha8": "f18f5611", "tags": ["handoff", "template"]}
+{"heading": "정보", "id": "docs/agents/handoffs/TEMPLATE.md#2", "lang": "ko", "path": "docs/agents/handoffs/TEMPLATE.md", "sensitivity": "internal", "sha8": "f18f5611", "tags": ["handoff", "template"]}
+{"heading": "목표", "id": "docs/agents/handoffs/TEMPLATE.md#3", "lang": "ko", "path": "docs/agents/handoffs/TEMPLATE.md", "sensitivity": "internal", "sha8": "f18f5611", "tags": ["handoff", "template"]}
+{"heading": "완료", "id": "docs/agents/handoffs/TEMPLATE.md#4", "lang": "ko", "path": "docs/agents/handoffs/TEMPLATE.md", "sensitivity": "internal", "sha8": "f18f5611", "tags": ["handoff", "template"]}
+{"heading": "남은 일", "id": "docs/agents/handoffs/TEMPLATE.md#5", "lang": "ko", "path": "docs/agents/handoffs/TEMPLATE.md", "sensitivity": "internal", "sha8": "f18f5611", "tags": ["handoff", "template"]}
+{"heading": "결정", "id": "docs/agents/handoffs/TEMPLATE.md#6", "lang": "ko", "path": "docs/agents/handoffs/TEMPLATE.md", "sensitivity": "internal", "sha8": "f18f5611", "tags": ["handoff", "template"]}
+{"heading": "위험", "id": "docs/agents/handoffs/TEMPLATE.md#7", "lang": "ko", "path": "docs/agents/handoffs/TEMPLATE.md", "sensitivity": "internal", "sha8": "f18f5611", "tags": ["handoff", "template"]}
+{"heading": "근거", "id": "docs/agents/handoffs/TEMPLATE.md#8", "lang": "ko", "path": "docs/agents/handoffs/TEMPLATE.md", "sensitivity": "internal", "sha8": "f18f5611", "tags": ["handoff", "template"]}
+{"heading": "다음 담당", "id": "docs/agents/handoffs/TEMPLATE.md#9", "lang": "ko", "path": "docs/agents/handoffs/TEMPLATE.md", "sensitivity": "internal", "sha8": "f18f5611", "tags": ["handoff", "template"]}
+{"heading": "ACK", "id": "docs/agents/handoffs/TEMPLATE.md#10", "lang": "ko", "path": "docs/agents/handoffs/TEMPLATE.md", "sensitivity": "internal", "sha8": "f18f5611", "tags": ["handoff", "template"]}
+{"heading": "docs/agents/sessions directory", "id": "docs/agents/sessions/README.md#1", "lang": "en", "path": "docs/agents/sessions/README.md", "sensitivity": "public", "sha8": "05d026ab", "tags": ["documentation", "repository"]}
+{"heading": "ego-lite session", "id": "docs/agents/sessions/ego-lite.md#1", "lang": "en", "path": "docs/agents/sessions/ego-lite.md", "sensitivity": "public", "sha8": "37c30a18", "tags": ["documentation", "repository"]}
+{"heading": "github-backup session", "id": "docs/agents/sessions/github-backup.md#1", "lang": "en", "path": "docs/agents/sessions/github-backup.md", "sensitivity": "public", "sha8": "339dc468", "tags": ["documentation", "repository"]}
+{"heading": "google-drive-backup session", "id": "docs/agents/sessions/google-drive-backup.md#1", "lang": "en", "path": "docs/agents/sessions/google-drive-backup.md", "sensitivity": "public", "sha8": "cc395ea5", "tags": ["documentation", "repository"]}
+{"heading": "handoff session", "id": "docs/agents/sessions/handoff.md#1", "lang": "en", "path": "docs/agents/sessions/handoff.md", "sensitivity": "public", "sha8": "084898e2", "tags": ["documentation", "repository"]}
+{"heading": "janitor session", "id": "docs/agents/sessions/janitor.md#1", "lang": "en", "path": "docs/agents/sessions/janitor.md", "sensitivity": "public", "sha8": "86a9b6db", "tags": ["documentation", "repository"]}
+{"heading": "pm session", "id": "docs/agents/sessions/pm.md#1", "lang": "en", "path": "docs/agents/sessions/pm.md", "sensitivity": "public", "sha8": "348bb733", "tags": ["documentation", "repository"]}
+{"heading": "worker session", "id": "docs/agents/sessions/worker.md#1", "lang": "en", "path": "docs/agents/sessions/worker.md", "sensitivity": "public", "sha8": "6f86ebd6", "tags": ["documentation", "repository"]}
+{"heading": "Glossary", "id": "docs/glossary.md#1", "lang": "en", "path": "docs/glossary.md", "sensitivity": "public", "sha8": "9b5e95a3", "tags": ["documentation", "repository"]}
+{"heading": "위키 작성 규칙", "id": "docs/wiki/SCHEMA.md#1", "lang": "ko", "path": "docs/wiki/SCHEMA.md", "sensitivity": "internal", "sha8": "0a67c69e", "tags": ["wiki"]}
+{"heading": "Ingest", "id": "docs/wiki/SCHEMA.md#2", "lang": "ko", "path": "docs/wiki/SCHEMA.md", "sensitivity": "internal", "sha8": "0a67c69e", "tags": ["wiki"]}
+{"heading": "Query", "id": "docs/wiki/SCHEMA.md#3", "lang": "ko", "path": "docs/wiki/SCHEMA.md", "sensitivity": "internal", "sha8": "0a67c69e", "tags": ["wiki"]}
+{"heading": "Lint", "id": "docs/wiki/SCHEMA.md#4", "lang": "ko", "path": "docs/wiki/SCHEMA.md", "sensitivity": "internal", "sha8": "0a67c69e", "tags": ["wiki"]}
+{"heading": "페이지 종류", "id": "docs/wiki/SCHEMA.md#5", "lang": "ko", "path": "docs/wiki/SCHEMA.md", "sensitivity": "internal", "sha8": "0a67c69e", "tags": ["wiki"]}
+{"heading": "위키 목록", "id": "docs/wiki/index.md#1", "lang": "ko", "path": "docs/wiki/index.md", "sensitivity": "internal", "sha8": "addc78da", "tags": ["wiki"]}
+{"heading": "에이전트 문서 (docs/agents)", "id": "docs/wiki/index.md#2", "lang": "ko", "path": "docs/wiki/index.md", "sensitivity": "internal", "sha8": "addc78da", "tags": ["wiki"]}
+{"heading": "수집 기록", "id": "docs/wiki/log.md#1", "lang": "ko", "path": "docs/wiki/log.md", "sensitivity": "internal", "sha8": "2f70e077", "tags": ["wiki"]}
+{"heading": "[2026-11-08] ingest | repository sources", "id": "docs/wiki/log.md#2", "lang": "ko", "path": "docs/wiki/log.md", "sensitivity": "internal", "sha8": "2f70e077", "tags": ["wiki"]}
+{"heading": "실습 결과 해석", "id": "docs/wiki/pages/concepts/results.md#1", "lang": "ko", "path": "docs/wiki/pages/concepts/results.md", "sensitivity": "internal", "sha8": "752f4209", "tags": ["wiki"]}
+{"heading": "노트북", "id": "docs/wiki/pages/entities/notebooks.md#1", "lang": "ko", "path": "docs/wiki/pages/entities/notebooks.md", "sensitivity": "internal", "sha8": "7f71989f", "tags": ["wiki"]}
+{"heading": "자주 묻는 질문", "id": "docs/wiki/pages/faq.md#1", "lang": "ko", "path": "docs/wiki/pages/faq.md", "sensitivity": "internal", "sha8": "f6241423", "tags": ["wiki"]}
+{"heading": "노트북 실행", "id": "docs/wiki/pages/howto/run-notebooks.md#1", "lang": "ko", "path": "docs/wiki/pages/howto/run-notebooks.md", "sensitivity": "internal", "sha8": "fce853f5", "tags": ["wiki"]}
+{"heading": "고전 CNN 실습", "id": "docs/wiki/pages/modules/classic-cnn.md#1", "lang": "ko", "path": "docs/wiki/pages/modules/classic-cnn.md", "sensitivity": "internal", "sha8": "74dada6e", "tags": ["wiki"]}
+{"heading": "합성곱과 풀링 실습", "id": "docs/wiki/pages/modules/cnn-mnist.md#1", "lang": "ko", "path": "docs/wiki/pages/modules/cnn-mnist.md", "sensitivity": "internal", "sha8": "3a8a86df", "tags": ["wiki"]}
+{"heading": "전이학습 실습", "id": "docs/wiki/pages/modules/transfer-learning.md#1", "lang": "ko", "path": "docs/wiki/pages/modules/transfer-learning.md", "sensitivity": "internal", "sha8": "fedaafc8", "tags": ["wiki"]}
+{"heading": "제조 AI 실습 개요", "id": "docs/wiki/pages/overview.md#1", "lang": "ko", "path": "docs/wiki/pages/overview.md", "sensitivity": "internal", "sha8": "ee64ab9a", "tags": ["wiki"]}
+{"heading": "experiments directory", "id": "experiments/README.md#1", "lang": "en", "path": "experiments/README.md", "sensitivity": "public", "sha8": "0d40a5b7", "tags": ["documentation", "repository"]}
+{"heading": "models directory", "id": "models/README.md#1", "lang": "en", "path": "models/README.md", "sensitivity": "public", "sha8": "600952bb", "tags": ["documentation", "repository"]}
+{"heading": "notebooks directory", "id": "notebooks/README.md#1", "lang": "en", "path": "notebooks/README.md", "sensitivity": "public", "sha8": "652a8c65", "tags": ["documentation", "repository"]}
+{"heading": "reports directory", "id": "reports/README.md#1", "lang": "en", "path": "reports/README.md", "sensitivity": "public", "sha8": "72d32699", "tags": ["documentation", "repository"]}
+{"heading": "src directory", "id": "src/README.md#1", "lang": "en", "path": "src/README.md", "sensitivity": "public", "sha8": "5a56514c", "tags": ["documentation", "repository"]}

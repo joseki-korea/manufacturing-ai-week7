@@ -1,0 +1,31 @@
+---
+id: "manufacturing-ai-week7/docs/agents/sessions/github-backup"
+title: "github-backup session"
+summary: "github-backup session"
+domain: "manufacturing-ai"
+tags: ["documentation", "repository"]
+owner: "repository maintainers"
+status: "draft"
+created: "2026-11-08"
+updated: "2026-11-08"
+source: "docs/agents/sessions/github-backup.md"
+lang: "en"
+sensitivity: "public"
+related: ["README.md"]
+repo: "manufacturing-ai-week7"
+device_scope: "all"
+doc_type: "guide"
+source_of_truth: "docs/agents/sessions/github-backup.md"
+---
+
+# github-backup session
+
+Role: Prepare approved GitHub backups within the assigned scope.
+
+Input: task and applicable rules.
+
+Output: scoped result and verification evidence.
+
+Forbidden: secrets, unapproved external changes, or self-approval.
+
+Handoff: record status, risks, and next action; see [RULES.md](../../../RULES.md).

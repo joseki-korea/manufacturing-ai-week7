@@ -1,0 +1,29 @@
+---
+id: "manufacturing-ai-week7/GEMINI"
+title: "antigravity entry point"
+summary: "Repository entry point for antigravity"
+domain: "manufacturing-ai-week7"
+tags: ["agents"]
+owner: "repository maintainers"
+status: "draft"
+created: "2026-11-08"
+updated: "2026-11-08"
+source: "GEMINI.md"
+lang: "en"
+sensitivity: "internal"
+related: ["RULES.md"]
+repo: "manufacturing-ai-week7"
+device_scope: "all"
+doc_type: "entrypoint"
+source_of_truth: "GEMINI.md"
+---
+
+# Agent entry point
+
+Read [RULES.md](RULES.md), [ARCHITECTURE.md](ARCHITECTURE.md), and [role](docs/agents/ROLE-antigravity.md).
+
+## 멀티에이전트 핸드오프·정리·감시·훅 (docs/agents)
+- 핸드오프 규칙: [docs/agents/handoffs/README.md](docs/agents/handoffs/README.md)
+- 정리 담당: [docs/agents/ROLE-janitor.md](docs/agents/ROLE-janitor.md)
+- 감시 담당: [docs/agents/ROLE-watchdog.md](docs/agents/ROLE-watchdog.md)
+- 훅 목록: [docs/agents/HOOKS.md](docs/agents/HOOKS.md)

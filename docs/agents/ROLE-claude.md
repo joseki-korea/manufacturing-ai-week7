@@ -1,0 +1,23 @@
+---
+id: "manufacturing-ai-week7/docs/agents/ROLE-claude"
+title: "Claude role"
+summary: "Claude role"
+domain: "manufacturing-ai"
+tags: ["documentation", "repository"]
+owner: "repository maintainers"
+status: "draft"
+created: "2026-11-08"
+updated: "2026-11-08"
+source: "docs/agents/ROLE-claude.md"
+lang: "en"
+sensitivity: "public"
+related: ["README.md"]
+repo: "manufacturing-ai-week7"
+device_scope: "all"
+doc_type: "guide"
+source_of_truth: "docs/agents/ROLE-claude.md"
+---
+
+# Claude role
+
+Monitor and coordinate; execution is performed by an assigned worker. Follow the assigned session scope and [repository rules](../../RULES.md). Preserve existing work; hand off changes and verification evidence for independent review.

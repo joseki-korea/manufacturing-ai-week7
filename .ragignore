@@ -1,0 +1,26 @@
+.git/
+.venv/
+node_modules/
+__pycache__/
+data/
+*.ipynb
+*.png
+*.jpg
+*.pdf
+*.zip
+.env*
+!**/README.md
+*.mp4
+*.mov
+*.webm
+*.bin
+
+# Local vector indexes and caches
+.chroma/
+.faiss/
+*.faiss
+*.sqlite
+*.sqlite3
+
+# Root README contains personal information
+/README.md
